@@ -8,10 +8,10 @@ class TopController < ApplicationController
   def login
   end
   
-  def privacypolicy
+  def privacy
   end
   
   def company
   end
-  
+
 end
